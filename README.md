@@ -1,7 +1,8 @@
 #
 <h1 align="center">👋 Hiii.. I'm Sushil Patil</h1>
 <h2 align="center">✨ Welcome to 🚀</h2>
-<h3 align="center">🐍 Python Practical & Bssic_Code 💻</h3>
+<h3 align="center">🐍 Python Practical & Basic_Code 💻</h3>
+
 
 
 
