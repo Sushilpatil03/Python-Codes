@@ -7,6 +7,6 @@
 <h4 align="center">✒️Library Name and Its Perpose (Short summary)</h4>
 
 <h5 align="center">NumPy :-	Numerical computations and array handling</h5>
-<h6 align="center">Pandas	:- Data analysis, cleaning, and manipulation (like Excel in Python)</h6>
-<h7 align="center">Matplotlib :-	For plotting graphs and charts</h7>
-<h8 align="center">Seaborn :-	For advanced and attractive statistical visualizations</h8>
+<h5 align="center">Pandas	:- Data analysis, cleaning, and manipulation (like Excel in Python)</h5>
+<h5 align="center">Matplotlib :-	For plotting graphs and charts</h5>
+<h5 align="center">Seaborn :-	For advanced and attractive statistical visualizations</h5>
